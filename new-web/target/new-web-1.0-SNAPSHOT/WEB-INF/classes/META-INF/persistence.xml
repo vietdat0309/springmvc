@@ -3,5 +3,7 @@
     <persistence-unit name="persistence-data">
         <class>com.example.entity.UserEntity</class>
         <class>com.example.entity.RoleEntity</class>
+        <class>com.example.entity.NewEntity</class>
+        <class>com.example.entity.CategoryEntity</class>
     </persistence-unit>
 </persistence>
